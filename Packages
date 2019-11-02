@@ -1,28 +1,16 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.kushy.screensafe
+Version: 1
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
-
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
+Maintainer: Kushy
+Installed-Size: 6484
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: debs/com.kushy.screensafe_1_iphoneos-arm.deb
+Size: 5048432
+MD5sum: 197fa174eed8b9d72f5100679a4116dd
+SHA1: e611333aa3e6cb3ffb3c50e9bc6744478a3834bb
+SHA256: 053b81677cfc33e81878ed0ddd545c5b89c862820c27989b1a022be78e2c980d
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Description: An OLED friendly IOS screensaver with custom video support and alot of cusomisablility
+Author: Kushy
+Name: ScreenSafe
 
