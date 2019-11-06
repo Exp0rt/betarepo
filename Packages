@@ -1,16 +1,16 @@
 Package: com.kushy.screensafe
-Version: 1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: Kushy
-Installed-Size: 6484
+Installed-Size: 8940
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: debs/com.kushy.screensafe_1_iphoneos-arm.deb
-Size: 5048432
-MD5sum: 197fa174eed8b9d72f5100679a4116dd
-SHA1: e611333aa3e6cb3ffb3c50e9bc6744478a3834bb
-SHA256: 053b81677cfc33e81878ed0ddd545c5b89c862820c27989b1a022be78e2c980d
+Filename: debs/com.kushy.screensafe_1.0.2_iphoneos-arm.deb
+Size: 7461368
+MD5sum: 4d83215363eb46e8e37305f9eb689686
+SHA1: 01f96f072c2ea10918dd37267ad51be7094934aa
+SHA256: f28a80839df978b422b4b93d49c602abf55e9f1f52dff61499d255049c2390d9
 Section: Tweaks
-Description: An OLED friendly IOS screensaver with custom video support and alot of cusomisablility
+Description: An OLED friendly IOS screensaver with custom video support and alot of customisablility
 Author: Kushy
 Name: ScreenSafe
 
