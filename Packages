@@ -15,16 +15,16 @@ Author: Kushy
 Name: ScreenSafe
 
 Package: com.kushy.screensafexiii
-Version: 1
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Kushy
-Installed-Size: 10680
+Installed-Size: 10744
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: debs/com.kushy.screensafexiii_1_iphoneos-arm.deb
-Size: 10000850
-MD5sum: d594a6d929bd665104408fe95ab6ef72
-SHA1: f07d6dc6edbeebe2a32f9e35c9d16178fb56a215
-SHA256: 539943df7e29cb4ce25e4e25a6c45e4244654ffd66a74f1fa8bb8762576a238e
+Filename: debs/com.kushy.screensafexiii_1.1_iphoneos-arm.deb
+Size: 10000458
+MD5sum: 7622e5422efdf2a19a6186846eb4aebf
+SHA1: d134e3a453ca5b0d7195641b5bb84494cfebd449
+SHA256: aa0f84f492e166edbcccf77c2a1ecf0d3c29d4b75c72477f6b62db530bd89e9f
 Section: Tweaks
 Description: An OLED friendly IOS screensaver with custom video support and alot of customisablility updated for ios 13
 Author: Kushy
